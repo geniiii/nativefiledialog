@@ -1,0 +1,5 @@
+D:/nativefiledialog/build/CMakeFiles/INSTALL.dir
+D:/nativefiledialog/build/CMakeFiles/ALL_BUILD.dir
+D:/nativefiledialog/build/CMakeFiles/ZERO_CHECK.dir
+D:/nativefiledialog/build/src/CMakeFiles/INSTALL.dir
+D:/nativefiledialog/build/src/CMakeFiles/nfd.dir
