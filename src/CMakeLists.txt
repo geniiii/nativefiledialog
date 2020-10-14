@@ -20,6 +20,7 @@ if(UNIX AND NOT APPLE)
 elseif(APPLE)
 	target_sources(nfd PRIVATE nfd_cocoa.m)
 elseif(WIN32)
+	enable_language(CXX)
 	target_sources(nfd PRIVATE nfd_win.cpp)
 endif()
 
